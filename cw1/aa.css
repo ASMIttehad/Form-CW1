@@ -1,0 +1,85 @@
+body{
+	background-image:url("50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg")
+	
+}
+main{
+	background-color:white;
+	height:1700px;
+	width:92%;
+	margin: -15px auto;
+	
+}
+nav{
+	
+	
+	background-color:white;
+	margin-left:15px;
+	
+}
+
+a{
+		color: #333;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		
+	
+	
+}
+#active{
+	   
+	   
+	   border:2px solid #f2f2f2;
+	   border-bottom:none;
+	
+}
+.navl{
+	
+	 border-bottom:2px solid #f2f2f2;
+	
+}
+#form1{
+	
+	margin:15px;
+	
+}
+form{
+	height:1600px;
+	background:#FFF8DC;
+	display:flex;
+	justify-content: space-between;
+	padding:0 30px;
+}
+
+input{
+	width:96%;
+	
+}
+.ttl{
+     width:20px;
+	
+
+}
+
+#frm{
+	display:flex;
+	justify-content:space-between;
+	margin-top:15px;
+	padding:0px 20px;
+}
+.d1{
+	width:35%;
+}
+.name1{
+	justify-content:space-between;
+	display:flex;
+}
+#cd{
+	
+	display:flex;
+	
+}
+#ICLL{
+	margin-left:20px;
+	
+}
